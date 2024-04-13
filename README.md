@@ -1,4 +1,4 @@
-# Parameter-Estimation-Using-Maximum-Likelihood-Estimation
+## Parameter Estimation Using Maximum Likelihood Estimation
 
 Maximum Likelihood Estimation (MLE) is a statistical method for determining the values of parameters in a model that best explain observed data.
 It involves finding the values of parameters that maximize the likelihood function, which measures the probability of observing the given data given the model and its parameters. 
